@@ -1,7 +1,7 @@
 var http = require('http')
 var url = require("url")
 
-var port = process.argv[2]
+var port = 8080
 
 
 
